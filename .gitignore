@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
